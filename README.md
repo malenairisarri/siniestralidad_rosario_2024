@@ -62,37 +62,13 @@ La app permite:
 
 Se construyeron tres indicadores para evaluar la peligrosidad de cada intersección:
 
-- **IVAX (Valor absoluto):**  
-  
+- **I\_VA\_X (Valor absoluto):** cantidad total de siniestros en la intersección \(X\).
 
-\[
-  IVAX = N_X
-  \]
+- **T\_X (Tasa):** ajustada por flujo vehicular y gravedad.  
+  Fórmula: \((N_D + N_L \times 5 + N_{VF} \times 10) / \text{Flujo} \times 10^6\)
 
-  
-  donde \(N_X\) es la cantidad total de siniestros en la intersección \(X\).
-
-- **TX (Tasa):**  
-  
-
-\[
-  TX = \frac{N_D + (N_L \times 5) + (N_{VF} \times 10)}{\text{Flujo}} \times 10^6
-  \]
-
-  
-  donde \(N_D\) son siniestros con daños materiales, \(N_L\) con lesionados y \(N_{VF}\) con víctimas fatales.
-
-- **INIX (Índice integrado):**  
-  
-
-\[
-  INIX = 0.3 \cdot A_X + 0.7 \cdot T'_X
-  \]
-
-  
-  combinación normalizada de los dos indicadores anteriores.
-
-
+- **I\_NI\_X (Índice integrado):** combinación normalizada de los dos indicadores anteriores.  
+  Fórmula: \(0.3 \cdot A_X + 0.7 \cdot T'_X\)
 ---
 
 ## 📈 Resultados clave
