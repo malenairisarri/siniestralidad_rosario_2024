@@ -62,18 +62,17 @@ La app permite:
 
 Se construyeron tres indicadores para evaluar la peligrosidad de cada intersección:
 
-- **I\_VA\_X (Valor absoluto):** cantidad total de siniestros en la intersección \(X\).
+- **\(I_{VA,X}\) (Valor absoluto):** cantidad total de siniestros en la intersección.
 
-- **T\_X (Tasa):** ajustada por flujo vehicular y gravedad.  
-  Fórmula: \((N_D + N_L \times 5 + N_{VF} \times 10) / \text{Flujo} \times 10^6\)
+- **\(T_X\) (Tasa):** ajustada por flujo vehicular y gravedad.  
 
-- **I\_NI\_X (Índice integrado):** combinación normalizada de los dos indicadores anteriores.  
-  Fórmula: \(0.3 \cdot A_X + 0.7 \cdot T'_X\)
+- **\(I_{NI,X}\) (Índice integrado):** combinación normalizada de los dos indicadores anteriores. 
+
 ---
 
 ## 📈 Resultados clave
 
-### 🏆 Top 5 — Índice Normalizado Integrado (INIX)
+### 🏆 Top 5 — Índice Normalizado Integrado (\(I_{NI,X}\))
 
 1. Av. Pellegrini y Bv. Oroño — 1,00  
 2. Bv. Seguí y Bv. Oroño — 0,79  
