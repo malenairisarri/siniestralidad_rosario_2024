@@ -53,8 +53,8 @@ Identificar y jerarquizar las intersecciones más peligrosas de la ciudad de Ros
 | **SIES** | Sistema Integrado de Emergencias Sanitarias — siniestros con lesionados | 2024 |
 | **SIDEAT** | Sistema Integrado de Denuncias de Accidentes de Tránsito — siniestros sin lesionados | 2018 |
 | **APSV** | Registro provincial de víctimas fatales (Agencia Provincial de Seguridad Vial) | 2024 |
-| **DSL / Espiras** | Capa de espiras semafóricas de la Dirección de Señalización Luminosa — flujo vehicular | 2024–2025 |
-| **EMR / Censos** | Censos manuales de tránsito del Ente de la Movilidad de Rosario | Varios |
+| **DSL / Espiras** | Capa de espiras semafóricas de la Dirección de Señalización Luminosa — flujo vehicular | 2024 |
+| **EMR / Censos** | Censos manuales de tránsito del Ente de la Movilidad de Rosario | 2025 |
 
 ---
 
