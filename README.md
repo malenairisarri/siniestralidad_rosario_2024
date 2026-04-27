@@ -98,6 +98,13 @@ Los resultados pueden utilizarse como insumo para políticas de seguridad vial:
 
 ---
 
+## 📂 Documentos
+
+- 📄 [Tesina completa](Tesina%20Irisarri%20Malena%20-%20ÍNDICES%20Y%20MAPAS%20GEOREFERENCIADOS%20DE%20SINIESTRALIDAD%20VIAL%20EN%20ROSARIO%20EN%20EL%20AÑO%202024.pdf)  
+- 🎤 [Presentación de defensa](presentacion.pdf)
+
+---
+
 ## 📬 Contacto
 
 **Malena Irisarri**  
