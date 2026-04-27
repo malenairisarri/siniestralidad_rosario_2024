@@ -43,8 +43,6 @@ Procesos principales:
 
 ---
 
----
-
 ## 🌐 Aplicación interactiva
 
 Explorá los datos en tiempo real:  
