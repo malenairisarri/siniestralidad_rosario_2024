@@ -1,5 +1,14 @@
 # Índices y Mapas Georreferenciados de Siniestralidad Vial en Rosario — 2024
 
+<p align="center">
+  <img src="imagenes/mapa_metodo_indice.png" width="700">
+</p>
+
+<p align="center">
+  <em>Top 5 intersecciones con mayor índice de siniestralidad vial (Rosario, 2024)</em>
+</p>
+
+
 Tesina de Licenciatura en Estadística  
 Universidad Nacional de Rosario — Facultad de Ciencias Económicas y Estadística  
 **Autora:** Malena Irisarri  
