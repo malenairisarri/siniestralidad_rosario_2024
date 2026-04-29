@@ -113,6 +113,14 @@ Los resultados pueden utilizarse como insumo para políticas de seguridad vial:
 - 🎤 [Presentación de defensa](presentacion.pdf)
 
 ---
+📄 **Cita sugerida**  
+Si desea citar este recurso:
+
+Irisarri, M. (2026). Índices y Mapas Georreferenciados de Siniestralidad Vial en Rosario — 2024.  
+Tesina de Licenciatura en Estadística, Universidad Nacional de Rosario.  
+Repositorio GitHub. Disponible en: https://github.com/malenairisarri/siniestralidad_rosario_2024
+
+---
 
 ## 📬 Contacto
 
