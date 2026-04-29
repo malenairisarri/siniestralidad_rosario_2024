@@ -1,7 +1,7 @@
 # Índices y Mapas Georreferenciados de Siniestralidad Vial en Rosario — 2024
 
 <p align="center">
-  <img src="outputs/mapas/mapa_metodo_indice.png" width="700">
+  <img src="C:/Users/usuario/Downloads/mapa_metodo_indice.png" width="700">
 </p>
 
 <p align="center">
